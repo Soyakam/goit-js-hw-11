@@ -1,8 +1,8 @@
 import "./js/pixabay-api";
 import { getImages } from "./js/pixabay-api";
-import "./js/render-function";
-import { createMarkUp } from "./js/render-function";
-import { galleryEl } from "./js/render-function";
+import "./js/render-functions";
+import { createMarkUp } from "./js/render-functions";
+import { galleryEl } from "./js/render-functions";
 import iziToast from "izitoast";
 import "izitoast/dist/css/iziToast.min.css";
 import SimpleLightbox from "simplelightbox";
