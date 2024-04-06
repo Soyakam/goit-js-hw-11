@@ -1,4 +1,7 @@
-/* Reset styles */
+body {
+  margin: 12px;
+}
+
 h1,
 h2,
 h3,
@@ -30,6 +33,6 @@ button {
 
 img {
   display: block;
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
